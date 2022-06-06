@@ -77,7 +77,7 @@ body {
   position: relative;
   background: none repeat scroll 0 0 #fff;
   color: #444444;
-  max-width: 412px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
@@ -140,7 +140,7 @@ body {
 }
 
 .card .header {
-  padding: 55px 20px;
+  padding: 500px 286px;
   background: linear-gradient(to top, #8B4513, #FFDEAD, #FFF8DC);
   color: black;
   font-size: 11pt;
